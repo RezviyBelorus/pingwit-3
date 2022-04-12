@@ -1,11 +1,11 @@
-package com.example.lec_11.homework.task_11;
+/*package com.example.lec_11.homework.task_11;
 
 import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-/* public class TreeSetTask11 {
+   public class TreeSetTask11 {
     public static void main(String[] args) {
 
         TreeSet<String> names;
@@ -24,3 +24,4 @@ import java.util.regex.Pattern;
 
     } //НЕ ОТРАБАЬАТЫВАЕТ PATERN!!!!....пока...
 }
+*/
