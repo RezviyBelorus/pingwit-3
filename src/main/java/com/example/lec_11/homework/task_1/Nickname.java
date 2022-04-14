@@ -13,11 +13,11 @@ public class Nickname {
         nickname.add("Щавлик");
         nickname.add("Пончик");
 
-
+// лишний абзац 
         System.out.print("Вспомни детскую кликуху: ");
-        String yournickname;
+        String yournickname; // yournickname -> yourNickname - новые слова с большой буквы
         Scanner name = new Scanner(System.in);
-        yournickname = name.nextLine();
+        yournickname = name.nextLine(); // String yournickname = name.nextLine(); - в одну строчку лучше в данном ситуации
 
         if (nickname.contains(yournickname)) {
             System.out.println(" Заходи дружище " + (yournickname));
